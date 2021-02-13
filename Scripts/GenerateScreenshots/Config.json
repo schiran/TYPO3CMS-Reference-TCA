@@ -796,6 +796,22 @@
               "caption": "Examples of different palettes in the extension styleguide"
             }
           ]
+        },
+        {
+          "table": "tx_styleguide_valuesdefault",
+          "prefix": "valuesdefault_",
+          "screens": [
+            {
+              "view": "fields",
+              "uid": 1
+            }
+          ],
+          "fields": [
+            {
+              "field": "checkbox_16",
+              "caption": "Default value 5 (1 + 4) checks first (2^0) and third (2^2) checkbox."
+            }
+          ]
         }
       ]
     }
