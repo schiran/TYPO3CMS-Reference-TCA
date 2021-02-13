@@ -1,0 +1,7 @@
+.. Automatic screenshot: Remove this line if you want to manually change this file
+
+.. figure:: /Includes/Images/Styleguide/AutomaticScreenshots/Input16.png
+   :alt: Some cool password field
+   :class: with-border with-shadow
+
+   :ref:`Some cool password field <tca_example_input_16>`
