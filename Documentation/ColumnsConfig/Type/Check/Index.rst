@@ -6,7 +6,6 @@
 Checkboxes
 ==========
 
-
 Introduction
 ============
 

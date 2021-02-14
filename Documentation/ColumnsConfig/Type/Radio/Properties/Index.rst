@@ -18,13 +18,13 @@ Special properties
 .. toctree::
    :titlesonly:
 
+   Default
    Items
 
 Common properties
 =================
 
 *  :ref:`behaviour > allowLanguageSynchronization <tca_property_behaviour_allowLanguageSynchronization>`
-*  :ref:`default <tca_property_default>`
 *  :ref:`fieldControl <tca_property_fieldControl>`
 *  :ref:`fieldInformation <tca_property_fieldInformation>`
 *  :ref:`fieldWizard <tca_property_fieldWizard>` with the following options

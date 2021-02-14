@@ -809,7 +809,27 @@
           "fields": [
             {
               "field": "checkbox_16",
-              "caption": "Default value 5 (1 + 4) checks first (2^0) and third (2^2) checkbox."
+              "caption": "Default value 5 (1 + 4) checks first (2^0) and third (2^2) checkbox"
+            },
+            {
+              "field": "radio_2",
+              "caption": "Defaults to the radio button with value `y`"
+            },
+            {
+              "field": "input_1",
+              "caption": "An input field with a default value"
+            },
+            {
+              "field": "input_2",
+              "caption": "An date input field with a default value"
+            },
+            {
+              "field": "select_1",
+              "caption": "Select option with value `2` is preselected"
+            },
+            {
+              "field": "select_2",
+              "caption": "Select check boxes with values 1 and 3 are selected"
             }
           ]
         }

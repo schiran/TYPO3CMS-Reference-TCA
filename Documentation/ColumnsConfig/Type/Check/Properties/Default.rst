@@ -16,6 +16,9 @@ default
    Each bit corresponds to a check box. This is true even if there is only one
    checkbox which which then maps to bit-0.
 
+   This property also exists in other types.
+   See :ref:`Common properties -  default <tca_property_default>`.
+
 
 Examples
 ========
